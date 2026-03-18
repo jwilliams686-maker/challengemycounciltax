@@ -1,0 +1,15 @@
+<svg width="520" height="140" viewBox="0 0 520 140" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="520" height="140" rx="4" fill="white"/>
+  <rect x="10" y="10" width="500" height="120" fill="white" stroke="#0B0C0C" stroke-width="2"/>
+  <rect x="22" y="22" width="84" height="96" fill="#0B0C0C"/>
+  <path d="M64 44L80 52V68C80 80 72.8 91.3 64 95C55.2 91.3 48 80 48 68V52L64 44Z" fill="#FFDD00"/>
+  <path d="M64 58V82" stroke="#0B0C0C" stroke-width="3"/>
+  <path d="M54 66H74" stroke="#0B0C0C" stroke-width="3"/>
+  <path d="M54 66L48 74H60L54 66Z" fill="#0B0C0C"/>
+  <path d="M74 66L68 74H80L74 66Z" fill="#0B0C0C"/>
+  <path d="M64 58L56 50" stroke="#0B0C0C" stroke-width="3"/>
+  <path d="M64 58L72 50" stroke="#0B0C0C" stroke-width="3"/>
+  <text x="128" y="57" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#0B0C0C">CHALLENGE MY BAND</text>
+  <text x="128" y="87" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#1D70B8">trading as COUNCIL TAX CHALLENGE</text>
+  <text x="128" y="112" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#505A5F">Independent Council Tax band review and challenge service</text>
+</svg>
