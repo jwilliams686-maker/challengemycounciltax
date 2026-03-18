@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="160" viewBox="0 0 640 160" role="img" aria-labelledby="title desc">
+  <title id="title">Challenge My Band logo</title>
+  <desc id="desc">Text logo for Challenge My Band trading as Council Tax Challenge.</desc>
+  <rect width="640" height="160" fill="#0b0c0c"/>
+  <rect x="0" y="146" width="640" height="14" fill="#ffdd00"/>
+  <text x="28" y="68" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#ffffff">Challenge My Band</text>
+  <text x="28" y="110" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#b1b4b6">Trading as Council Tax Challenge</text>
+</svg>
